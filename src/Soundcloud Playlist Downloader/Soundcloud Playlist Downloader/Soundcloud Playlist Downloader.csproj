@@ -14,7 +14,7 @@
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
     <RestorePackages>true</RestorePackages>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>E:\Projects\SoundCloud-Playlist-Sync\tag binaries\Published_Releases\r1.0.0.12\</PublishUrl>
+    <PublishUrl>C:\Gregs Documents\!Dev\GitHub\SoundCloud-Playlist-Sync\tag binaries\Published_Releases\r1.0.0.13\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
